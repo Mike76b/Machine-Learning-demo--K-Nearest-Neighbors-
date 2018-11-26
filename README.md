@@ -7,7 +7,7 @@ NOTE :  If you have issues to see the notebook:
   
   and paste it in this website  https://nbviewer.jupyter.org/
   
-### Machine-Learning-demo (K-Nearest-Neighbors) / Demo de Aprendizaje Automático (K-Nearest-Neighbors)
+### Machine-Learning-demo (K-Nearest-Neighbors) 
 
 (EN) 
 
@@ -27,6 +27,7 @@ Python 3: https://www.python.org/downloads/
 
 files: http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
+### Demo de Aprendizaje Automático (K-Nearest-Neighbors)
 (ES) 
 
 NOTA :  Si tiene problemas para ver el archivo .ipynb:
