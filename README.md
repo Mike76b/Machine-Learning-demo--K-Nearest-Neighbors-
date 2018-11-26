@@ -3,7 +3,7 @@ ML demo on a red-wine quality data set.
 
 NOTE :  If you have issues to see the notebook:
 
-  copy this link  
+  copy this link  https://github.com/Mike76b/Machine-Learning-demo--K-Nearest-Neighbors-.git
   
   and paste it in this website  https://nbviewer.jupyter.org/
   
@@ -32,7 +32,7 @@ files: http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 NOTA :  Si tiene problemas para ver el archivo .ipynb:
 
-  copie el siguiente enlace  
+  copie el siguiente enlace  https://github.com/Mike76b/Machine-Learning-demo--K-Nearest-Neighbors-.git
   
   y péguelo en el siguiente sitio web  https://nbviewer.jupyter.org/
 
