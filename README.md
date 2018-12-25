@@ -1,4 +1,6 @@
 # Machine-Learning-demo--K-Nearest-Neighbors-
+(EN) 
+
 ML demo on a red-wine quality data set.
 
 NOTE :  If you have issues to see the notebook:
@@ -8,8 +10,6 @@ NOTE :  If you have issues to see the notebook:
   and paste it in this website  https://nbviewer.jupyter.org/
   
 ### Machine-Learning-demo (K-Nearest-Neighbors) 
-
-(EN) 
 
 This demo contains examples of different processes carried on during Machine Learning using Scikit-Learn, also the whole process is combined with some Python libraries such as pandas, numpy and matplotlib.
 
