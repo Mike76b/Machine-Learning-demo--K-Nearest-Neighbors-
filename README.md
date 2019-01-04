@@ -9,7 +9,7 @@ NOTE :  If you have issues to see the notebook:
   
   and paste it in this website  https://nbviewer.jupyter.org/
   
-### Machine-Learning-demo (K-Nearest-Neighbors) 
+### Python code. ML Classification demo on a red-wine quality data set (K-Nearest-Neighbors) // Código Python. Modelo de Aprendizaje Automatizado usando Clasificación KNN
 
 This demo contains examples of different processes carried on during Machine Learning using Scikit-Learn, also the whole process is combined with some Python libraries such as pandas, numpy and matplotlib.
 
